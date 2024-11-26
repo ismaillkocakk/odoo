@@ -1,0 +1,6 @@
+1- nano install_odoo17.sh
+2- Odoo install raw copy/paste save and exit
+3- chmod +x install_odoo17.sh
+4- ls (check install_odoo17.sh created)
+5- sudo ./install_odoo17.sh  (starting)
+6- Finish and go to the url:8069
